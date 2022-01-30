@@ -1,0 +1,4 @@
+[ZoneTransfer]
+ZoneId=3
+ReferrerUrl=https://github.com/marcomarasca/SDCND-SuperAI-Capstone/tree/master/ros/src/tl_detector/light_classification/models/ssd_mobilenet_v2
+HostUrl=https://github.com/marcomarasca/SDCND-SuperAI-Capstone/blob/master/ros/src/tl_detector/light_classification/models/ssd_mobilenet_v2/graph_optimized.pb
